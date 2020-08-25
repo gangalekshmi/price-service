@@ -1,0 +1,11 @@
+com\cts\microservices\productcatalogservice\DAO\ReviewRepository.class
+com\cts\microservices\productcatalogservice\service\ReviewServiceImpl.class
+com\cts\microservices\productcatalogservice\ProductcatalogserviceApplication.class
+com\cts\microservices\productcatalogservice\service\ProductServiceImpl.class
+com\cts\microservices\productcatalogservice\entity\Product.class
+com\cts\microservices\productcatalogservice\service\ProductService.class
+com\cts\microservices\productcatalogservice\service\ReviewService.class
+com\cts\microservices\productcatalogservice\LoadSearchDataApplication.class
+com\cts\microservices\productcatalogservice\controller\ProductController.class
+com\cts\microservices\productcatalogservice\entity\Review.class
+com\cts\microservices\productcatalogservice\DAO\ProductRepository.class
